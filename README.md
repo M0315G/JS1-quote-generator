@@ -2,7 +2,7 @@
 
 This is one of the inital projects created at the time I was learning Java Script. Feel free to play with it. 
 
-You can find the project live here.
+You can find the project live [here](https://m0315g.github.io/JS1-quote-generator/).
 
 Every time you click on 'New Quote' button, it'll fetch a quote randomly and display it to you.
 
